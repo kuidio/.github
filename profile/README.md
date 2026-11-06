@@ -32,8 +32,8 @@ We are eager to get you [user feedback](https://github.com/kuidio/kuid/issues) o
 
 ### License, governance and stewardship
 
-Code in the kuid repositories licensed with Apache License 2.0. At the moment the project is governed by the benevolent dictatorship of @henderiw @steiler and @hansthienpondt . On the long run we plan to move to a meritocracy based governance model.
+Code in the kuid repositories are licensed with Apache License 2.0 (Apache-2.0). At the moment the project is governed by the benevolent dictatorship of @henderiw @steiler and @hansthienpondt . On the long run we plan to move to a meritocracy based governance model.
 
 Repositories in this organisation are stewarded by Nokia. Nokia steward is an open-source software steward as defined in
-the European Union [Cyber Resliliency Act Article 3(14)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_3).
+the European Union [Cyber Resilience Act Article 3(14)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202402847#art_3).
 
